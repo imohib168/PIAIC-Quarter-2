@@ -17,10 +17,10 @@
 ---
 - [x] Images to Numpy array Assignment
 ### Numpy Assignment: [Images to Numpy](https://github.com/imohib168/PIAIC-Quarter-2/blob/master/Numpy/Images%20to%20Numpy.ipynb)
-> Assignment By: Sir Anees Ahmed
-1- Download 20 Images
-2- Resize All 20 Images
-3- Convert All Resized Images into Numpy 4D array
+##### Assignment By: Sir Anees Ahmed
+* Download 20 Images
+* Resize All 20 Images
+* Convert All Resized Images into Numpy 4D array
 ---
 # PANDAS:
 > *pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series.*
