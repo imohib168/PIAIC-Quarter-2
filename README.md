@@ -35,4 +35,7 @@
 - [x] Numpy Class Work(Series)
 ### Series: [Class Work](https://github.com/imohib168/PIAIC-Quarter-2/blob/master/pandas/Pandas%20Onsite%20Class%20(Series).ipynb)
 ---
+- [x] Practice Exercise (pandas)
+### Excercise: [Pandas Automobile Excercise](https://github.com/imohib168/PIAIC-Quarter-2/tree/master/pandas/practice%20Exercise)
+---
 ### Prepared by : [Mohib Ismail](https://github.com/imohib168)
