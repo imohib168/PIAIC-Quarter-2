@@ -38,4 +38,7 @@
 - [x] Practice Exercise (pandas)
 ### Excercise: [Pandas Automobile Excercise](https://github.com/imohib168/PIAIC-Quarter-2/tree/master/pandas/practice%20Exercise)
 ---
+- [x] Assignment 3
+### Assignment: [pandas practice Assignment](https://github.com/imohib168/PIAIC-Quarter-2/tree/master/pandas/Assignment%203)
+---
 ### Prepared by : [Mohib Ismail](https://github.com/imohib168)
