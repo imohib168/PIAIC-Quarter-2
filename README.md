@@ -41,4 +41,24 @@
 - [x] Assignment 3
 ### Assignment: [pandas practice Assignment](https://github.com/imohib168/PIAIC-Quarter-2/tree/master/pandas/Assignment%203)
 ---
-### Prepared by : [Mohib Ismail](https://github.com/imohib168)
+# Deep Learning:
+>Deep learning is a subset of machine learning in artificial intelligence (AI) that has networks capable of learning unsupervised from data that is unstructured or unlabeled. Also known as deep neural learning or deep neural network.
+---
+## Assignments:
+### Iris: [Iris Assignment](https://github.com/imohib168/PIAIC-Quarter-2/blob/master/Deep%20learning/Assignment/Iris.ipynb)
+### Sonar: [Sonar Assignment](https://github.com/imohib168/PIAIC-Quarter-2/blob/master/Deep%20learning/Assignment/Sonar.ipynb)
+### Diabetes: [Diabetes Assignment](https://github.com/imohib168/PIAIC-Quarter-2/blob/master/Deep%20learning/Assignment/diabetes.ipynb)
+---
+## Practice:
+### [IMDB dataset](https://github.com/imohib168/PIAIC-Quarter-2/blob/master/Deep%20learning/IMDB%20dataset.ipynb)
+---
+### [MNIST Dataset](https://github.com/imohib168/PIAIC-Quarter-2/blob/master/Deep%20learning/MNIST%20dataset.ipynb)
+---
+### [MNIST fashion Dataset](https://github.com/imohib168/PIAIC-Quarter-2/blob/master/Deep%20learning/MNIST%20dataset.ipynb)
+---
+### [Reuters Dataset](https://github.com/imohib168/PIAIC-Quarter-2/blob/master/Deep%20learning/Reuters%20dataset.ipynb)
+---
+### [Weight Height prediction](https://github.com/imohib168/PIAIC-Quarter-2/blob/master/Deep%20learning/Weight%20Height%20prediction.ipynb)
+---
+
+## Prepared by : [Mohib Ismail](https://github.com/imohib168)
